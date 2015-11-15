@@ -5,7 +5,7 @@
     var vm = this;
 
     vm.characters = Marvel.getCharacters({
-      apikey: '42ccade691a12dce6ebfa211f04f1cd0'
+      apikey: /** Your API key here */
     });
   }
 
