@@ -1,0 +1,8 @@
+{
+  "name": "e2e-nightwatch-angular",
+  "description": "E2E testing TodoMVC AngularJS version using Nightwatch.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "nightwatch": "^0.8.6"
+  }
+}
